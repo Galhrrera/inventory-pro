@@ -19,9 +19,9 @@ Como dueño de tienda, quiero poder agregar nuevos productos a mi inventario.
 Como dueño de tienda, quiero ver una lista de todos los productos en mi inventario.
 
 ### Criterios de Aceptación:
-- [ ] Puedo ver una lista paginada de todos los productos.
-- [ ] La lista muestra el ID, nombre, precio y cantidad disponible de cada producto.
-- [ ] Puedo ordenar la lista por nombre, precio o cantidad.
+- [x] Puedo ver una lista paginada de todos los productos.
+- [x] La lista muestra el ID, nombre, precio y cantidad disponible de cada producto.
+- [x] Puedo ordenar la lista por nombre, precio o cantidad.
 
 ## HU-003: Actualizar información de productos existentes
 
