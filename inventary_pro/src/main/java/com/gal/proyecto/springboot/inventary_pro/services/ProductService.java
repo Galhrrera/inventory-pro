@@ -10,4 +10,9 @@ public interface ProductService {
 
     Page<Product> getProducts(int pageNumber, int pageSize, String sortBy);
 
+    Product findById(Long id);
+
+    Product findByName(String name);
+
+    Product updateProduct(Long id, Product product);
 }
