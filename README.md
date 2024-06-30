@@ -28,9 +28,9 @@ Como dueño de tienda, quiero ver una lista de todos los productos en mi inventa
 Como dueño de tienda, quiero actualizar la información de un producto existente.
 
 ### Criterios de Aceptación:
-- [ ] Puedo buscar un producto por su ID o nombre.
-- [ ] Puedo modificar el nombre, descripción, precio y cantidad del producto.
-- [ ] Recibo una confirmación cuando la información se actualiza correctamente.
+- [x] Puedo buscar un producto por su ID o nombre.
+- [x] Puedo modificar el nombre, descripción, precio y cantidad del producto.
+- [x] Recibo una confirmación cuando la información se actualiza correctamente.
 
 ## HU-004: Registrar venta de productos
 
